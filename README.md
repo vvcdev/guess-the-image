@@ -4,7 +4,7 @@
 You have 15 seconds to guess what the computer thinks an image is. The computer is not trained extremely well, so an image of a snake could be identified as a hook, a claw, etc. For more accurate computer guesses, use less detailed but more realistic images.
 
 ## How to Play
-1. Make sure you have the Jetson SDK and Python3 installed on your system.
+1. Make sure you have a Jetson Nano with the Jetson Inference library and Python3 installed on your system.
 2. Upload the image you want the computer to identify into the "images" folder.
 3. Open your terminal and type the following command: `python3 game.py image/filename`
 4. Guess the image's identity within the given time!
