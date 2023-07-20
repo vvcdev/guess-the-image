@@ -9,7 +9,7 @@ You have 15 seconds to guess what the computer thinks an image is. The computer 
 3. Open your terminal and type the following command: `python3 game.py image/filename`
 4. Guess the image's identity within the given time!
 
-More details: [Youtube demo]
+More details: [Youtube demo](https://www.youtube.com/watch?v=cXYiBtqMufM)
 
 ## How It Works
 
